@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-jlb0kv.pulaucuansite.cfd/sitemap.xml
